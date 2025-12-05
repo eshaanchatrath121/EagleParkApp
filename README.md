@@ -16,4 +16,6 @@ JSON Decoding
 
 Next steps will be to allow for more user interaction. This will be done by implementing features such as university email verification, user-to-user messaging, payment integration, reservation scheduling, and a review system. Other UI polish, map clustering, and onboarding flow improvements will help to ready EaglePark for public testing and/or App Store submission.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hcb4kZxFQdA?si=jrmXY7O80X_AFTJ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# APP DEMO
+
+https://www.youtube.com/watch?v=hcb4kZxFQdA
