@@ -4,12 +4,12 @@ EaglePark is an iOS application built with SwiftUI that allows students througho
 
 # Key Techniques Used
 
-Cloud Firestore Integration
-Firebase Authentication
-MVVM Architecture
-MapKit + Custom Annotations
-CLGeocoder
-Dynamic Filtering & Sorting
+Cloud Firestore Integration, 
+Firebase Authentication, 
+MVVM Architecture, 
+MapKit + Custom Annotations, 
+CLGeocoder, 
+Dynamic Filtering & Sorting, 
 JSON Decoding
 
 # Next Steps
